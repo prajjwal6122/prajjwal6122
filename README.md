@@ -1,8 +1,10 @@
+
+
+
+[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1665855122~exp=1665855722~hmac=efd054606a6c207e16a847fd78981b74f7bb0e16adcba5e70672263695e4eaa4)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prajjwal Sharma</h1>
 <h3 align="center">A Curious front end developer from India.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal6122&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal6122" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajjwal6122" alt="prajjwal6122" /></a> </p>
 
 - 🌱 I’m currently learning **React Js and DSA**
